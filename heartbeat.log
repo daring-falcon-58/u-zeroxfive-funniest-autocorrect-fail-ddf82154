@@ -1,0 +1,3 @@
+2026-11-25 00:36 WIB build start: workdir created, brief read (req JSON + comp page)
+2026-11-25 00:39 WIB kit unpacked to expected path; full soal read (competition.yaml + RULES.txt); judge criteria in order: 1) is a one-line autocorrect fail 2) funny on first read, clear+surprising wrong word 3) reads as a real slip not a written joke 4) clear without explanation, one line 5) wrong word specific+original; gate 1-199 chars; chosen line scored 24/25, best of 8 candidates
+2026-11-25 00:40 WIB main.py v1 written, revised (import fix + byte-exact re-read verification), run twice byte-identical, gate OK (30 chars, 1 line, no trailing newline)

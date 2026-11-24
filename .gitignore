@@ -1,0 +1,7 @@
+kit/
+kit-download.tar.gz
+check.log
+bundle.log
+submit.log
+transcripts.tar.gz
+__pycache__/
